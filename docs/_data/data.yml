@@ -234,7 +234,7 @@ skills:
       - name: SQL database management
         level: 50%
 
-      - name: C, C++, C#, R, Java, Javascript
+      - name: C, C++, C#, R, Java
         level: 25%
 
       - name: HTML5, CSS, Javascript, jQuery, PHP
