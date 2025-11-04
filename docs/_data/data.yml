@@ -228,6 +228,9 @@ skills:
       - name: Tensorflow, Pytorch, SciKit-Learn
         level: 75%
 
+      - name: Linux Server management
+        level: 75%
+
       - name: SQL database management
         level: 50%
 
