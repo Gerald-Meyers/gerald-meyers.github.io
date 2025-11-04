@@ -55,14 +55,7 @@ sidebar:
 introduction:
     title: Introduction
     summary: |
-      Hello!
-
-      This website is my personal GitHub Pages CV. As time goes on I intend to expand and increase the complexity of this document, but for the moment this will suffice. 
-      Consider checking back regularly to see the updates and changes.
-      I intend to use this as a general document to hold all of my information, and eventually transfer the contents to a proper server instead of a simple, static webpage.
-      Thank you for visiting.
-
-      Last update April 2, 2024.
+      I am an entry level ML developer with experience in database management, docker environment deployment, python, tensorflow, model verification, and much more.
 
 career-profile:
     title: Career Profile
