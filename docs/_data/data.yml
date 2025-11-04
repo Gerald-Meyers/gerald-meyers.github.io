@@ -72,40 +72,27 @@ education:
     info:
       - degree: BS in Physics, Minor in Mathematics
         university: University of South Florida (USF), Tampa
-        time: 2019 - 2023
+        time: 2023
         details: |
-          At USF I studied physics, the many computational methods of physics, and the general process of physical modeling. 
-          Additionally I studied the various methods of machine learning.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          At USF I studied physics, the many computational methods of physics, and the general process of physical modeling and machine learning.
+            - Learned the fundamentals of machine learning model development and validation.
+            - Studied algorithm design, implementation, and optimization for various modeling purposes.
+      - degree: AA in  Mathematics
+        university: State College of Florida
+        time: 2019
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          At the State College of Florida I learned the fundamentals of physics and prepared myself for a challenging degree in physics.
+            - All electives taken were Mathematics
+            - Participated as a paid and volunteer academic tutor for the Academic Resource Center and to my fellow classmates.
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Developer
+        time: 2013 - Present
+        # company: 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          Through self driven activities, I taught myself the fundamentals of system design, software implementation, and algorithmic complexity theory.
             - Bullet point
             - Bullet point
       - role: Senior Software Engineer
