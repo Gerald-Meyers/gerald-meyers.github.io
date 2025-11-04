@@ -88,35 +88,50 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Developer
+      - role: AP Physics & Pre-AP Chemistry Instructor
+        time: 2024 - 2025
+        company: Cristo Rey Tampa Salesian High School
+        details:
+          Designed and implemented curriculum to instruct students in science and mathematics.
+            - Acheived the highest pass rate in school history on the AP Physics exam.
+      
+      - role: Center Director
+        time: 2024 - 2025
+        company: Mathnasium of Brandon
+        details:
+          Implemented individualized curriculum on a per student basis to improve academic understanding of mathematics.
+            - Increased revenue growth by over 150%.
+            - Oversaw parent outreach activities, and increased student population by 200%.
+
+      - role: Entry Level Developer
         time: 2013 - Present
         # company: 
         details: |
           Through self driven activities, I taught myself the fundamentals of system design, software implementation, and algorithmic complexity theory.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      # - role: Senior Software Engineer
+      #   time: 2014 - 2015
+      #   company: Google, London
+      #   details: |
+      #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      #     Cum sociis natoque penatibus et magnis dis parturient montes,
+      #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #     pellentesque eu, pretium quis, sem.
+      #       - Bullet point
+      #       - Bullet point
+      # - role: UI Developer
+      #   time: 2012 - 2014
+      #   company: Amazon, London
+      #   details: |
+      #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      #     Cum sociis natoque penatibus et magnis dis parturient montes,
+      #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #     pellentesque eu, pretium quis, sem.
+      #       - Bullet point
+      #       - Bullet point
 
 certifications:
       title: Certifications
