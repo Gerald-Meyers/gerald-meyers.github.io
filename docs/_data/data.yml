@@ -6,30 +6,30 @@ sidebar:
     position: left # position of the sidebar : left or right
     # about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
-    introduction: False # set to False if you want introduction in main section instead of in sidebar
+    introduction: True # set to False if you want introduction in main section instead of in sidebar
 
     # Profile information
     name: Gerald Meyers
-    tagline: Full Stack Developer
+    tagline: Entry Level ML Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: GeraldSMeyers@gmail.com
     phone: 941 705 4369
-    timezone: America/Cancun Timezone
-    citizenship: 
-    website: blog.webjeda.com #do not add http://
+    timezone: EST
+    citizenship: United States
+    # website: blog.webjeda.com #do not add http://
     linkedin: linkedin.com/in/GeraldMeyers
     # xing: alandoe
     github: github.com/Gerald-Meyers
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    # telegram: # add your nickname without '@' sign
+    # gitlab:
+    # bitbucket:
+    # twitter: 
+    stack-overflow: 4122552/Gerald
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
+    # pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
