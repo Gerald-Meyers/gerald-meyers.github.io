@@ -108,11 +108,11 @@ experiences:
 
       - role: Entry Level Developer
         time: 2013 - Present
-        # company: 
+        company: 
         details: |
           Through self driven activities, I taught myself the fundamentals of system design, software implementation, and algorithmic complexity theory.
-            - Bullet point
-            - Bullet point
+            - Setup and managed Ubuntu based NAS for video editing
+            - Developed closed-loop badging system for site security management and hourly employee time management.
 
 # certifications:
 #       title: Certifications
@@ -146,9 +146,9 @@ projects:
       Implemented algorithms for hyperparameter search and function minimization, such as a customized Nelder-Mead algorithm.
 
     assignments:
-      - title: 
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Astro-classifier
+        link: 
+        tagline: Classifies astronomical observations into HR diagram stellar classifications.
 
       
 # oss:
