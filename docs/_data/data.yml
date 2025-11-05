@@ -43,7 +43,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Programming
+        - item: Programming & Machine Learning
+          link:
+
+        - item: Physics & Mathematics
           link:
 
         - item: Outdoorsmanship
